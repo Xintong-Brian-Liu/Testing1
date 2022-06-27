@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f78e426f.css",
+    "main.js": "/static/js/main.24a9fd59.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/Coin98.png": "/static/media/Coin98.1e4e40738d77467e19ba.png",
+    "static/media/wallet-connect.svg": "/static/media/wallet-connect.304e327744ae5c9b1b62b58f50df6734.svg",
+    "TokenPocket.svg": "/0ba487424539ab81b79fe14307e77334.svg",
+    "static/media/MathWallet.svg": "/static/media/MathWallet.19212234cfaec388ea6f339d0cea9df9.svg",
+    "SafePal.svg": "/e7068bbce0757878c2ef3e30191ce580.svg",
+    "index.html": "/index.html",
+    "main.f78e426f.css.map": "/static/css/main.f78e426f.css.map",
+    "main.24a9fd59.js.map": "/static/js/main.24a9fd59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f78e426f.css",
+    "static/js/main.24a9fd59.js"
+  ]
+}
